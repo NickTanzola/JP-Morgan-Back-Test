@@ -1,2 +1,2 @@
 # JP-Morgan-Back-Test
-Back test of JP Morgan's Volatility Index.
+Further details found in the ReadME
